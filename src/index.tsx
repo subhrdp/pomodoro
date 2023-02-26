@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'modern-normalize';
+import Context from 'context';
+import App from 'components/App';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -7,6 +10,8 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <div />
+    <Context>
+      <App />
+    </Context>
   </React.StrictMode>
 );
