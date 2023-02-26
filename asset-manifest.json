@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pomodoro/static/css/main.3af51eb7.css",
+    "main.js": "/pomodoro/static/js/main.6f203a27.js",
+    "static/media/inter-latin-ext-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-latin-ext-variable-wghtOnly-normal.fad2a547f18821b21f1f.woff2",
+    "static/media/inter-latin-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-latin-variable-wghtOnly-normal.5eb4a7768219776c5b91.woff2",
+    "static/media/inter-cyrillic-ext-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-cyrillic-ext-variable-wghtOnly-normal.47734aec6134293ca791.woff2",
+    "static/media/inter-greek-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-greek-variable-wghtOnly-normal.3a3cf1a02598263f2457.woff2",
+    "static/media/inter-cyrillic-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-cyrillic-variable-wghtOnly-normal.fbe36d91b8952a12c592.woff2",
+    "static/media/inter-greek-ext-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-greek-ext-variable-wghtOnly-normal.23292101a34e08657a5d.woff2",
+    "static/media/inter-vietnamese-variable-wghtOnly-normal.woff2": "/pomodoro/static/media/inter-vietnamese-variable-wghtOnly-normal.74fe938ab12d800f4385.woff2",
+    "static/media/sun.svg": "/pomodoro/static/media/sun.696dae3beb6dfb81e0ddbd26e0a2921f.svg",
+    "static/media/github.svg": "/pomodoro/static/media/github.d4dbe8a4d67dd03ae0aa9f97c31e4666.svg",
+    "index.html": "/pomodoro/index.html",
+    "static/media/moon.svg": "/pomodoro/static/media/moon.0b8879aa6e9e8e61f15cd24aca087d39.svg",
+    "static/media/close.svg": "/pomodoro/static/media/close.f62a0897767513edc98ed7acd2c3f0c8.svg",
+    "main.3af51eb7.css.map": "/pomodoro/static/css/main.3af51eb7.css.map",
+    "main.6f203a27.js.map": "/pomodoro/static/js/main.6f203a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af51eb7.css",
+    "static/js/main.6f203a27.js"
+  ]
+}
